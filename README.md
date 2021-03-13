@@ -1,4 +1,5 @@
-<div text-align="center> 
+<div align="center> 
+                 
   ## PRIMEIRO PROJETO COM JAVASCRIPT, CSS & HTML
 
   ### O projeto baseia-se no propósito de mostrar a hora real e alterar cores de acordo com as condições a seguir:
