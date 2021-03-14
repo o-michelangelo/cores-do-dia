@@ -1,6 +1,6 @@
 <div align="center"> 
                  
-  ## PRIMEIRO PROJETO COM JAVASCRIPT, CSS & HTML
+  ## CORES DO DIA COM JAVASCRIPT, CSS & HTML
 
 ### O projeto baseia-se no propósito de mostrar a hora real e alterar cores de acordo com as condições a seguir:
 
