@@ -1,7 +1,8 @@
 <div align="center"> 
                  
   ## CORES DO DIA COM JAVASCRIPT, CSS & HTML
-### https://cores-do-dia.netlify.app/
+  <a href="www.google.com" target="_blank">CORES DO DIA</a>
+
 ### O projeto baseia-se no propósito de mostrar a hora real e alterar cores de acordo com as condições a seguir:
 
 #### hora < 12 : Manhã
